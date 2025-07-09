@@ -44,11 +44,10 @@ A no-code mobile app built using Glide for NIT Jalandhar CSE students to:
 
 ---
 
-## 📁 Project Files
+## 📁 student portal and club portal demo video link
 
-- `Xplore_Combined_Glide_File.xlsx`: contains Students, Clubs, Events, and Registrations
-- `/screenshots`: images showing app UI
-- (Optional) `demo.mp4`: 30–60 sec app walkthrough
+https://drive.google.com/file/d/1DrJaZzho95wikzy7EEX8T05HDOUymdSQ/view?usp=sharing
+https://drive.google.com/file/d/1VcX4VQ-twa1Jfc5P5vrhoeZJ0tup90Ww/view?usp=sharing
 
 ---
 
@@ -62,7 +61,7 @@ We’re open to rebuilding the app using Flutter or React in the next stage if r
 
 ## 📞 Team
 
-- **Name:** Pranjal Bansal  
+- **Leadern Name:** Pranjal 
 - **Institute:** NIT Jalandhar  
 - **Batch:** CSE 2024–2028  
-- **Team Name:** Unisphere
+- **Team Name:** Terminal Tribe
