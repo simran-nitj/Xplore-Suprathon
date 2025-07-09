@@ -37,7 +37,8 @@ A no-code mobile app built using Glide for NIT Jalandhar CSE students to:
 
 ## 🚀 How to Use the App
 
-1. Visit the [Live App]([https://go.glideapps.com/app/YOUR_APP_LINK](https://lazy-stew-6707.glide.page/dl/fe0000))  
+1. Visit the live app
+https://lazy-stew-6707.glide.page
 2. Sign in with your NITJ email  
 3. Browse clubs and upcoming events  
 4. Click **Register** to join an event (form auto-fills your details)
